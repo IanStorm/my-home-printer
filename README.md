@@ -4,10 +4,12 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/ianstorm/my-home-printer)](https://hub.docker.com/r/ianstorm/my-home-printer)
 [![Docker Stars](https://img.shields.io/docker/stars/ianstorm/my-home-printer)](https://hub.docker.com/r/ianstorm/my-home-printer)
 
-Project for **private purposes**.
+Garage project for **private purposes**.
 Makes the non-network printer available to all decives in my home.
 
 **🐳 Make sure you have installed *Docker*.**
+
+See how to put this repo in action at [IanStorm/my-smart-home-ras-pi](https://github.com/IanStorm/my-smart-home-ras-pi).
 
 
 ## How to use in "production"? 👨‍💼 👩‍💼
