@@ -21,6 +21,14 @@ Make sure you have installed *Visual Studio Code*.
 
 ## Appendix
 
+### How to get a pre-built Docker image? ☁️
+
+Get the latest Docker image from Docker Hub:
+```
+$	docker pull ianstorm/my-home-printer:latest
+```
+
+
 ### Sources
 
 * https://www.elektronik-kompendium.de/sites/raspberry-pi/2007081.htm#:~:text=Mit%20CUPS%20kann%20man%20einen%20Drucker-Server%20%28Print-Server%29%20im,eignet%20sich%20ein%20stromsparender%20Raspberry%20Pi%20besonders%20gut.
