@@ -1,5 +1,8 @@
 # My Home - Printer
 
+[![Docker Pulls](https://img.shields.io/docker/pulls/ianstorm/my-home-printer)](https://hub.docker.com/r/ianstorm/my-home-printer)
+[![Docker Stars](https://img.shields.io/docker/stars/ianstorm/my-home-printer)](https://hub.docker.com/r/ianstorm/my-home-printer)
+
 Project for **private purposes**.
 Makes the non-network printer available to all decives in my home.
 
