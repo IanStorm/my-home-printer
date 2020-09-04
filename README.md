@@ -1,6 +1,6 @@
 # My Home - Printer
 
-[![GitHub Actions](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2FIanStorm%2Fmy-home-printer%2Fbadge&style=flat&label=build&logo=none)](https://actions-badge.atrox.dev/IanStorm/my-home-printer/goto)
+[![GitHub Actions](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2FIanStorm%2Fmy-home-printer%2Fbadge%3Fref%3Dmain&style=flat&label=build&logo=none)](https://actions-badge.atrox.dev/IanStorm/my-home-printer/goto?ref=main)
 [![Docker Pulls](https://img.shields.io/docker/pulls/ianstorm/my-home-printer)](https://hub.docker.com/r/ianstorm/my-home-printer)
 [![Docker Stars](https://img.shields.io/docker/stars/ianstorm/my-home-printer)](https://hub.docker.com/r/ianstorm/my-home-printer)
 
