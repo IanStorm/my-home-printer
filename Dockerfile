@@ -1,5 +1,8 @@
 FROM ubuntu:20.04
 
+# ⬇	Avoid user interaction during `apt-get install`
+ENV DEBIAN_FRONTEND noninteractive
+
 USER root
 
 RUN apt-get update && \
