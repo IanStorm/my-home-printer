@@ -5,6 +5,7 @@
 			"label": "build",
 			"type": "shell",
 			"command": "docker build -t my-home-printer .",
+			"problemMatcher": [],
 			"group": {
 				"kind": "build",
 				"isDefault": true
