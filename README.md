@@ -51,6 +51,12 @@ $	docker pull ianstorm/my-home-printer:latest
 ```
 
 
+### Scanner support
+
+According to my [printer's official HP Linux support page](https://developers.hp.com/hp-photosmart-5520-e-all-one) scanning is supported via _SANE_.
+Whereas the [official SANE devices list](http://www.sane-project.org/sane-mfgs.html) classifies most _Photosmart_ devices unsupported.
+
+
 ### Sources
 
 * [Raspberry Pi: Print-Server mit CUPS und AirPrint einrichten](https://www.elektronik-kompendium.de/sites/raspberry-pi/2007081.htm#:~:text=Mit%20CUPS%20kann%20man%20einen%20Drucker-Server%20%28Print-Server%29%20im,eignet%20sich%20ein%20stromsparender%20Raspberry%20Pi%20besonders%20gut.)
