@@ -5,6 +5,7 @@ ENV DEBIAN_FRONTEND noninteractive
 
 USER root
 
+# ⬇	Add printer
 RUN apt-get update && \
 	apt-get install -y cups=2\*
 RUN apt-get update && \
