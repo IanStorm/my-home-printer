@@ -63,3 +63,5 @@ Whereas the [official SANE devices list](http://www.sane-project.org/sane-mfgs.h
 * [So setzen Sie Ihren Raspberry Pi als Druckerserver ein](https://www.pcwelt.de/ratgeber/Raspberry-Pi-als-Druckerserver-einrichten-9966966.html?utm_source=desktop_site&utm_medium=browser&utm_term=9966966&utm_campaign=mobile_redirect)
 * [Docker - a way to give access to a host USB or serial device?](https://stackoverflow.com/q/24225647)
 * ~~[Samba ports](https://ubuntuforums.org/showthread.php?t=1049222&p=6612317#post6612317)~~
+* [HPLIP knowledge base (KB) entry about Digital Sending](https://web.archive.org/web/20170920013413/http://hplipopensource.com/node/302)
+* [SANE networking for HP multi-function printers](https://gist.github.com/plembo/1630c74806c1c97c2dcee03752865773)
