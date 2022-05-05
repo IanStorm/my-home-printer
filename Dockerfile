@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM ubuntu:22.04
 
 # ⬇	Avoid user interaction during `apt-get install`
 ENV DEBIAN_FRONTEND noninteractive
