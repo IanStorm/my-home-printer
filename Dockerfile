@@ -1,11 +1,13 @@
-FROM ubuntu:22.04
+# ⬇	Main stage
+# 		Ubuntu 22.04 (LTS)
+FROM ubuntu:jammy-20221003
 
-# ⬇	Avoid user interaction during `apt-get install`
+#	⬇	Avoid user interaction during `apt-get install`
 ENV DEBIAN_FRONTEND noninteractive
 
 USER root
 
-# ⬇	Add printer
+#	⬇	Add printer
 RUN apt-get update && \
 	apt-get install -y cups=2\*
 RUN apt-get update && \
