@@ -1,6 +1,6 @@
 # ⬇	Main stage
 # 		Ubuntu 22.04 (LTS)
-FROM ubuntu:jammy-20221003
+FROM ubuntu:jammy-20221101
 
 #	⬇	Avoid user interaction during `apt-get install`
 ENV DEBIAN_FRONTEND noninteractive
