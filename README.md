@@ -5,7 +5,7 @@
 [![Docker Stars](https://img.shields.io/docker/stars/ianstorm/my-home-printer)](https://hub.docker.com/r/ianstorm/my-home-printer)
 
 Garage project for **private purposes**.
-Makes the non-network printer available to all decives in my home.
+Makes the non-network printer available to all devices in my home.
 
 **🐳 Make sure you have installed *Docker*.**
 
